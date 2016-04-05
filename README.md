@@ -1,10 +1,8 @@
 
 
-* Run with servlet 3.0
+* Run with spring boot
 ```
-$./gradlew tomcatRunWar
+$./gradlew bootRun
 ```
 
 And open url http://localhost:8080/hello
-
-* Run with Spark Java
