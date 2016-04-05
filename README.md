@@ -1,10 +1,6 @@
 
 
-* Run with servlet 3.0
+* Run with DropWizard
 ```
-$./gradlew tomcatRunWar
+$sh run-dw.sh
 ```
-
-And open url http://localhost:8080/hello
-
-* Run with Spark Java
