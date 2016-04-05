@@ -1,0 +1,3 @@
+rootProject.name = 'kotlin.rest.api'
+include 'servlet3'
+
